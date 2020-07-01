@@ -1,0 +1,129 @@
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\MyAdmin.dll.config
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\MyAdmin.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\MyAdmin.pdb
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\csc.exe
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\csc.exe.config
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\csc.rsp
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\csi.exe
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\csi.rsp
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\vbc.exe
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\vbc.exe.config
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\vbc.rsp
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\Antlr3.Runtime.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\Newtonsoft.Json.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.Helpers.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.Mvc.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.Optimization.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.Razor.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.WebPages.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\WebGrease.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.Helpers.xml
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.Mvc.xml
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.Optimization.xml
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.Razor.xml
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.WebPages.xml
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\Newtonsoft.Json.xml
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\obj\Debug\MyAdmin.csproj.CopyComplete
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\obj\Debug\MyAdmin.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\obj\Debug\MyAdmin.pdb
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\CKFinder.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\CKFinder.pdb
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\obj\Debug\MyAdmin.csprojAssemblyReference.cache
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\Model.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\Model.pdb
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\Model.dll.config
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\EntityFramework.xml
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\EntityFramework.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\bvhau\source\repos\MyHotel\MyAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\MyAdmin.dll.config
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\MyAdmin.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\MyAdmin.pdb
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\csc.exe
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\csc.exe.config
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\csc.rsp
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\csi.exe
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\csi.rsp
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\vbc.exe
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\vbc.exe.config
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\vbc.rsp
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\Antlr3.Runtime.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\CKFinder.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\EntityFramework.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\Model.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\Newtonsoft.Json.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.Helpers.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.Mvc.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.Optimization.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.Razor.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.WebPages.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\WebGrease.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\Model.pdb
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\Model.dll.config
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\CKFinder.pdb
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\EntityFramework.xml
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.Helpers.xml
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.Mvc.xml
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.Optimization.xml
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.Razor.xml
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.WebPages.xml
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\Newtonsoft.Json.xml
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\obj\Debug\MyAdmin.csprojAssemblyReference.cache
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\obj\Debug\MyAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\obj\Debug\MyAdmin.csproj.CopyComplete
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\obj\Debug\MyAdmin.dll
+C:\Users\Johnathan Tran\Desktop\New folder (2)\MyHotel\MyAdmin\obj\Debug\MyAdmin.pdb
